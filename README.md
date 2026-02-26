@@ -1,7 +1,5 @@
 ### Front-End Developer | Next.js Specialist | UI Engineer | Modern Web Architect
 
-More on [your-portfolio-link.com](https://github.com/mustafa-workspace/)
-
 <table><tr>
 
 ---
