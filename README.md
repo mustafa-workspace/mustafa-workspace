@@ -1,6 +1,6 @@
 ### Front-End Developer | Next.js Specialist | UI Engineer | Modern Web Architect
 
-More on [your-portfolio-link.com](https://your-portfolio-link.com)
+More on [your-portfolio-link.com](https://github.com/mustafa-workspace/)
 
 <table><tr>
 
@@ -69,14 +69,17 @@ More projects on [github.com/mustafa-workspace](https://github.com/mustafa-works
 <p></br></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
+  <a href="https://linkedin.com/in/itsme-mustafa/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mustafa-workspace" target="blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <a href="https://facebook.com/itsmemustafa.official" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01a8a32567d8481373" target="blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
