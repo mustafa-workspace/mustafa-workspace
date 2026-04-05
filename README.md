@@ -1,4 +1,4 @@
-### Front-End Developer | Next.js Specialist | UI Engineer | Modern Web Architect
+### Front-End Developer | Next.js | React
 
 <table><tr>
 
